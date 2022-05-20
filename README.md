@@ -12,7 +12,6 @@
 - 🌱 love to learn new things 
 - ⚡ love creating awesome stuff
 - 🤓 Tech nerd
-- 💻 love to code
 
 <br /> 
 
