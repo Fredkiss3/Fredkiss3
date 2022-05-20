@@ -63,7 +63,6 @@
 [![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)]()
 [![Shell](https://img.shields.io/badge/shell_scripting%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)]()
-[![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)]()
 [![Github Actions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)]()
 [![Vercel](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-%230b214a.svg?&style=for-the-badge&logo=docker&logoColor=white)]()
