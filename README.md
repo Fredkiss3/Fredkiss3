@@ -2,7 +2,6 @@
  
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%8E%B4-red?style=for-the-badge&logo=about.me&color=ea4c89&link=https://fredkiss.dev)](https://fredkiss.dev/)
-[![Github Profile](https://img.shields.io/badge/github-%F0%9F%92%BB-black?style=for-the-badge&logo=github&color=black&link=https://github.com/Fredkiss3)](https://github.com/Fredkiss3)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%F0%9F%93%A0-blue?style=for-the-badge&logo=linkedin&color=0077B5&link=https://www.linkedin.com/in/adrien-kissie-3b6b32162/)](https://www.linkedin.com/in/adrien-kissie-3b6b32162/)
 
 ## I'm a Fullstack Developer
@@ -47,15 +46,11 @@
 <!-- [![PHP](https://img.shields.io/badge/php%20-%2314354C.svg?&style=for-the-badge&logo=php&logoColor=white)]() -->
 
 
-
 ### Frameworks
 [![Express](https://img.shields.io/badge/express-%234ea94b.svg?logo=express&style=for-the-badge)]()
 [![NestJS](https://img.shields.io/badge/nestjs-%23F24E1E.svg?logo=nestjs&style=for-the-badge)]()
 [![Fastify](https://img.shields.io/badge/fastify%20-%2320232a.svg?logo=fastify&style=for-the-badge)]()
 <!-- [![Symfony](https://img.shields.io/badge/symfony-%23111827.svg?logo=symfony&style=for-the-badge&logoColor=white)]() -->
-<br />
-<br />
-
 ### Databases
 [![something](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![something](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)]()
@@ -73,10 +68,6 @@
 [![Github Actions](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)]()
 [![Vercel](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-%230b214a.svg?&style=for-the-badge&logo=docker&logoColor=white)]()
-<br />
-
-
-
 <br />
 <br />
 
