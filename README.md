@@ -38,6 +38,7 @@
 [![Vite](https://img.shields.io/badge/vite%20-%238DD6F9.svg?&style=for-the-badge&logo=vite&logoColor=black)]() 
 [![Storybook](https://img.shields.io/badge/storybook-%23ff4785.svg?&style=for-the-badge&logo=storybook&logoColor=black)]() 
 
+<br /> 
 
 ## Backend :
  
@@ -58,9 +59,8 @@
 
 
 <br /> 
-<br />
 
-# Other
+## Other
 [![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)]()
 [![Shell](https://img.shields.io/badge/shell_scripting%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![Nginx](https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white)]()
@@ -69,7 +69,7 @@
 [![Vercel](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-%230b214a.svg?&style=for-the-badge&logo=docker&logoColor=white)]()
 <br />
-<br />
+
 
 ## Contact me:
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredkiss3@gmail.com)
