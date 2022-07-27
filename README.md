@@ -3,7 +3,7 @@
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%8E%B4-red?style=for-the-badge&logo=about.me&color=ea4c89&link=https://fredkiss.dev)](https://fredkiss.dev/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%F0%9F%92%BC-blue?style=for-the-badge&logo=linkedin&color=0077B5&link=https://www.linkedin.com/in/adrien-kissie-3b6b32162/)](https://www.linkedin.com/in/adrien-kissie-3b6b32162/)
-[![Twitch](https://img.shields.io/badge/Twitch-%F0%9F%8E%A7-purple?style=for-the-badge&logo=twitch&color=772ce8&link=https://www.linkedin.com/in/adrien-kissie-3b6b32162/)](https://www.linkedin.com/in/adrien-kissie-3b6b32162/)
+[![Twitch](https://img.shields.io/badge/Twitch-%F0%9F%8E%A7-purple?style=for-the-badge&logo=twitch&color=772ce8&link=https://www.linkedin.com/in/adrien-kissie-3b6b32162/)](https://www.twitch.tv/fredkisss/)
 
 ## I'm a Fullstack Developer
 
