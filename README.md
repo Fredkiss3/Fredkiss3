@@ -9,7 +9,7 @@
 
 - 🌌 curious about everything
 - 🎧 Streaming on [**Twitch**](https://twitch.tv/fredkisss)
-- 🎴 curently working @ [monemprunt.com](https://www.monemprunt.com) as a Frontend Developer
+- 🎴 Dev fullstack @ [scaledynamics](https://www.scaledynamics.com/)
 - 🌱 love to learn new things 
 - ⚡ love creating awesome stuff
 - 🤓 Tech nerd
