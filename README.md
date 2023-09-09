@@ -9,7 +9,7 @@
 
 - 🌌 curious about everything
 - 🎧 Streaming on [**Twitch**](https://twitch.tv/fredkisss)
-- 🎴 Dev fullstack @ [scaledynamics](https://www.scaledynamics.com/)
+- 🎴 Dev fullstack [@ScaleDynamics](https://github.com/ScaleDynamics)
 - 🌱 love to learn new things 
 - ⚡ love creating awesome stuff
 - 🤓 Tech nerd
