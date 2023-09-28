@@ -8,6 +8,7 @@
 - 🤓 Tech nerd
 
 
+<!--
 ## My links : 
 
 - Personnal website : https://fredkiss.dev/
@@ -15,3 +16,4 @@
 - Twitch : https://www.twitch.tv/fredkisss/
 - You can email me @ : [hello@fredkiss.dev](mailto:fredkiss3@gmail.com)  
 
+-->
