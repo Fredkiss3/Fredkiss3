@@ -1,13 +1,11 @@
-# Hello world, I'm Adrien KISSIE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Hello world, I'm Adrien KISSIE 👋
  
 - 👨🏾‍💻 I am a Fullstack Developer currently employed [@ScaleDynamics](https://github.com/ScaleDynamics)
+- 📝 I am knowledgeable with React, Nextjs, TailwindCSS on the front and [adonisjs](https://github.com/adonisjs/core/), [tRPC](https://github.com/trpc/trpc/), Django, Symfony, [drizzle-orm](https://github.com/drizzle-team/drizzle-orm) and PostgresSQL on the backend.
 - 🌌 Curious about everything
 - 🎧 Streaming on [**Twitch**](https://twitch.tv/fredkisss)
-- 🌱 Love to learn new things 
-- ⚡ Love experimenting with little side projects
+- 🌱 Love to learn new things and experiment with little side projects
 - 🤓 Tech nerd
-
-I am knowledgeable with React, Nextjs, TailwindCSS on the front and [adonisjs](https://github.com/adonisjs/core/), tRPC, PostgresSQL, drizzle on the backend.
 
 
 ## My links : 
