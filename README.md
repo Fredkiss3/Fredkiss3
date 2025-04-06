@@ -1,4 +1,4 @@
-# Hello world, I'm Adrien KISSIE 👋
+# Hello world, I'm Fred KISSIE 👋
  
 - 👨🏾‍💻 I am a Fullstack Developer, I do frontend, backend & devops
 - 🎧 I stream my personal projects on [**Twitch**](https://twitch.tv/fredkisss)
